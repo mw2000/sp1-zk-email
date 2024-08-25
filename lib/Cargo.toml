@@ -8,3 +8,4 @@ alloy-sol-types = { workspace = true }
 crypto-bigint = "0.6.0-rc.3"
 sha2 = "0.10.8"
 rsa = "0.6"
+p3-poseidon2 = "0.2.0"
